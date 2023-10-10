@@ -1,12 +1,12 @@
 {
-    "name": "⎯꯭‌♡︎𝙄𝙨𝙝𝙖𝙣𝙞°‌⁪ 𝙈𝙪𝙨𝙞𝙘♡︎⎯꯭‌",
+    "name": "ᴋᴀᴠʏᴀ ダ ᴍᴜsɪᴄ‌",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/a5cb73cdd0e7455f33960.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AnonX",
+    "Kavya",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ʀᴀᴊ ダ ᴍᴜsɪᴄ",
+        "value": "ᴋᴀᴠʏᴀ ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
