@@ -42,39 +42,39 @@ def help_pannel(_, START: Union[bool, int] = None):
                 ),            
                 InlineKeyboardButton(
                     text="✰ 𝐆-ʙᴀɴ ✰",
-                    callback_data="help_callback hb4", 
+                    callback_data="help_callback hb12", 
                 ),
                 InlineKeyboardButton(
                     text="✰ 𝐋ʏʀɪᴄѕ ✰",
-                    callback_data="help_callback hb12",
+                    callback_data="help_callback hb5",
                 ),
             ],
             [     
                 InlineKeyboardButton(
                     text="✬ 𝐏ɪɴɢ ✬",
-                    callback_data="help_callback hb5",
+                    callback_data="help_callback hb7",
                 ),
                 InlineKeyboardButton(
                     text="✬ 𝐏ʟᴀʏ ✬",
-                    callback_data="help_callback hb7", 
+                    callback_data="help_callback hb8", 
                 ),
                 InlineKeyboardButton(
                     text="✮ 𝐏-ʟɪѕᴛ ✮",
-                    callback_data="help_callback hb8",
+                    callback_data="help_callback hb6",
                 ),
             ],
             [    
                 InlineKeyboardButton(
                     text="✮ 𝐕-ᴄʜᴀᴛ ✮",
-                    callback_data="help_callback hb6",
-                ),
-                InlineKeyboardButton(
-                    text="✯ 𝐒ᴛᴀʀᴛ ✯",
                     callback_data="help_callback hb10",
                 ),
                 InlineKeyboardButton(
-                    text="✯ 𝐒ᴜᴅᴏ ✯",
+                    text="✯ 𝐒ᴛᴀʀᴛ ✯",
                     callback_data="help_callback hb11",
+                ),
+                InlineKeyboardButton(
+                    text="✯ 𝐒ᴜᴅᴏ ✯",
+                    callback_data="help_callback hb9",
                 ),
             ],
             mark,
